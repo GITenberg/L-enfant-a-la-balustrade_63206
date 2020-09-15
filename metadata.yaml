@@ -1,5 +1,8 @@
 _repo: L-enfant-a-la-balustrade_63206
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 63206-h/images/cover.jpg
 creator:
   author:
     agent_name: Boylesve, René
@@ -14,6 +17,8 @@ creator:
     - https://en.wikipedia.org/wiki/Ren%C3%A9_Boylesve
     - https://fr.wikipedia.org/wiki/Ren%C3%A9_Boylesve
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63206#L-enfant-a-la-balustrade
 gutenberg_issued: '2020-09-15'
 gutenberg_type: Text
 identifiers:
